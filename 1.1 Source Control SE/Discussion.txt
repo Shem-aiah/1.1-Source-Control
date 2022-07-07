@@ -1,0 +1,13 @@
+1.) "Javascript color conversion and manipulation library"
+Link: https://github.com/Qix-/color.git
+Reason: I'm not familiar with Javascript that much and I thought it was intersting.
+2.) "A program to convert text representations of math expressions" 
+Link: https://github.com/Thomilist/math-converter.git
+Reason: I found this to be really impressive because I've attempted somethng similar, but on a much smaller scale.
+3.) "Eye tracker drawing toolkit"
+Link: https://github.com/eyewriter/eyewriter.git
+Reason: I never thought it could be possible to do that with C++.
+4.) "Generalized Random Forests"
+Link: https://github.com/grf-labs/grf.git
+Reason: I've only ever done random generation once that being Conway's Game of Life. I found it helpful for 
+if I ever wanna do something like that for a game.

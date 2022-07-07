@@ -1,0 +1,4 @@
+5.) "About A game based on forced social interactions using quicktime events"
+Link: https://github.com/nbagnara/QuickTimeGame.git
+Reason: I thought it was a funny concept and I've thought about making my own QTEs before, but I wasn't sure
+how I would go about it.
